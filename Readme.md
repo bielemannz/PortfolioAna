@@ -1,4 +1,4 @@
-### Descrição do Projeto ###
+## Descrição do Projeto ##
 
 **Sobre mim:**  _Eu descrevi um pouco sobre mim   e falei o quanto eu amo a area de tecnologia desde criança._
 
