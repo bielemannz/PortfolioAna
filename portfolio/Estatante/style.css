@@ -1,0 +1,142 @@
+
+html{
+    scroll-behavior: smooth;
+}
+body{
+/* background */
+    background-color: #d4b4e0;
+
+    /* Texto */
+    color: #0d0d0d;
+    text-align: justify;
+    /*Alinhamento e Tamanho */
+    width: 100%;
+    margin: auto;
+}
+/*seções de livros*/
+
+section { 
+    padding: 64px 106px
+  
+}
+
+/* Tabela*/
+
+table{  
+
+    /* largura*/
+    width: 100%;
+    
+
+    
+}
+td{  /*background*/
+    background-color: #6d4277;}
+
+td, th{
+    /* borda no formato shorthand */
+    border:#75137e solid 1px; 
+    border-radius:  50px;
+    /*Alinhamento do texto */
+    text-align: center;
+
+}
+
+tr{
+    /*background*/
+    background-color: #b36fc0;
+    
+}
+
+
+/* Titulo Texto e Parágrafos */
+
+
+p{
+    text-align: justify;
+    text-indent: 50px;
+}
+h1,h2,h3{ text-align:center;}
+
+
+h3{ 
+    color:#3a053f;
+
+}
+
+
+a:link{
+    color: #8d0a8d
+
+} /*link normal*/
+
+a:visited {
+    color: #6b0685;
+}/* link visitado*/
+
+a:hover{ color:#531858; 
+
+} /* mouse sobre o link*/
+
+a:active{
+    color: #910cdf;
+} /*link seleciondo*/
+
+/* imagem*/
+img{
+    width: 300px;
+    display: block;
+    margin:auto;
+    border-radius: 10px;
+}
+
+/* Classes*/
+
+.bookTitle{
+    background-color: #bd90d8;
+    color: #5a055a;
+    text-align: center;
+}
+
+ #sectionSC, #sectionTXF, #sectionD{
+    background-color: #bd90d8;
+    
+ }
+
+ #header{
+    background-color: #b16ebe;
+    color: #7b1f8d;
+    padding: 31px;
+    margin-bottom: 0px;
+
+
+ }
+
+ #yourLibrary {
+    text-indent: 0px;
+    text-align: center;
+ }
+ #sumary{
+      background-color: #ab5dbb;
+      color:#7b1f8d;
+      padding: 20px;
+      margin-bottom: 50px;
+      border-radius: 0 0 50px;
+
+      display:flex;
+      flex-direction: column;
+      align-items: center;
+
+    }
+
+    footer{
+        background-color: #c381dddc;
+        width: 100%;
+        text-align: center;
+        padding: 30px 0;
+    }
+  
+ 
+    
+
+
