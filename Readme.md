@@ -1,5 +1,3 @@
-
-
 **Sobre mim:**  _Eu descrevi um pouco sobre mim   e falei o quanto eu amo a area de tecnologia desde criança._
 
 **Habilidades:** _Coloquei os projetos que eu desenvolvi durante o curso  e eu descrevi  oque eu criei por conta própia que é uma lista de compras que eu fiz com Html._
