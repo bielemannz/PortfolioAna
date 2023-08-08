@@ -8,7 +8,7 @@
 
 **Contate me**   _Coloquei  a localização da onde eu moro e modos de entrar em contato comigo através do meu número de telefone, Email e Redes Sociais como: GitHub, Linkedin, Facebook e Instagram. E logo abaixo coloquei  por quem esse projeto foi desenvolvido, que no caso sou eu mesma._
 
-Eu coloquei **cores pasteis** , _pois eu acho que tem tudo haver comigo por que eu adoro coisas  diferentes._
+Eu coloquei **cores pasteis** , _pois eu acho bonito, a princípio busquei essas cores atráves do site css gradient.io, acho muito interessante esse site e o modo como você pode utilizar cores e estilos de gradients diferentes_
 
 _Nesse Projeto  foi utilizado o Glassmorphism que é usado para descrever o Design UI que enfatiza objetos claros ou escuros colocados em fundos coloridos desfocados para dar essa impressão de vidro fosco._
 
